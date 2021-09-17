@@ -1,5 +1,7 @@
 # Ultimate-Tic_Tac_Toe
 
+**Game link: https://cascade398.github.io/Ultimate-Tic_Tac_Toe/Ultimate_TTT.html**
+
 Ultimate Tic-Tac-Toe (https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) is is a board game composed of nine tic-tac-toe boards arranged in a 3 × 3 grid. Players take turns playing in the smaller tic-tac-toe boards until one of them wins in the larger tic-tac-toe board. Compared to the traditional tic-tac-toe, strategy in this game is conceptually more difficult and has proven more challenging for computers.
 
 Similar to projects of making a Tic-Tac-Toe game, a staple of beginner programming courses, I have tried to implement an Ultimate Tic-Tac-Toe board. This project has been implemented using HTML, CSS and Javascript. The Ultimate_TTT directory stores all the assets, including the stylesheet and the scripts, with the HTML providing a web-based UI.
