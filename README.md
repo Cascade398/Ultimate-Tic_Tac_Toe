@@ -1,6 +1,6 @@
 # Ultimate-Tic_Tac_Toe
 
-**Game link: https://trn-k.github.io/Ultimate-Tic_Tac_Toe/Ultimate_TTT.html**
+**Game link: https://trun-k.github.io/Ultimate-Tic_Tac_Toe/Ultimate_TTT.html**
 
 Ultimate Tic-Tac-Toe (https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) is is a board game composed of nine tic-tac-toe boards arranged in a 3 × 3 grid. Players take turns playing in the smaller tic-tac-toe boards until one of them wins in the larger tic-tac-toe board. Compared to the traditional tic-tac-toe, strategy in this game is conceptually more difficult and has proven more challenging for computers.
 
